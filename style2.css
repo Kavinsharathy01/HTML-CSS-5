@@ -1,0 +1,58 @@
+.home{
+    height: 600px;
+    width: 1470px;
+    background-color: black;
+}
+.man{
+    color: aliceblue;
+    padding-top: 200px;
+    padding-left: 600px;
+
+h6{
+    padding-left: 9px;
+}
+}
+.about{
+    width: 1470px;
+    height: 850px;
+    padding-left: 240px;
+    padding-top: 150px;
+}
+.mint{
+    padding-left: 600px;
+    height: 100px;
+    width: 1470px;
+
+}
+.buy{
+    height: 100px;
+    width: 1470px;
+    color: rgb(182, 29, 29);
+    padding-left: 370px;
+    padding-top: 30px;
+    background-color: black;
+h3{
+    color: white;
+}
+}
+.Archivements{
+    height: 700px;
+    width: 1470px;
+}
+.box{
+    padding-top: 50px;
+}
+
+ul{
+    color: blue;
+}
+h3{
+    color: black;
+}
+.details{
+    height: 200px;
+    width: 1470px;
+    background-color: black;
+    padding-top: 50px;
+    color: aliceblue;
+}
